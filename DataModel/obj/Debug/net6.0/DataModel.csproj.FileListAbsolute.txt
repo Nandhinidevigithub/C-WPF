@@ -1,0 +1,30 @@
+C:\WPF Training\DataModel\bin\Debug\net6.0\DataModel.deps.json
+C:\WPF Training\DataModel\bin\Debug\net6.0\DataModel.dll
+C:\WPF Training\DataModel\bin\Debug\net6.0\DataModel.pdb
+C:\WPF Training\DataModel\bin\Debug\net6.0\BusinessModel.dll
+C:\WPF Training\DataModel\bin\Debug\net6.0\BusinessModel.pdb
+C:\WPF Training\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+C:\WPF Training\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\WPF Training\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+C:\WPF Training\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+C:\WPF Training\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+C:\WPF Training\DataModel\obj\Debug\net6.0\DataModel.csproj.CopyComplete
+C:\WPF Training\DataModel\obj\Debug\net6.0\DataModel.dll
+C:\WPF Training\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+C:\WPF Training\DataModel\obj\Debug\net6.0\DataModel.pdb
+C:\WPF Training\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\DataModel\bin\Debug\net6.0\DataModel.deps.json
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\DataModel\bin\Debug\net6.0\DataModel.dll
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\DataModel\bin\Debug\net6.0\DataModel.pdb
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\DataModel\bin\Debug\net6.0\BusinessModel.dll
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\DataModel\bin\Debug\net6.0\BusinessModel.pdb
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\DataModel\obj\Debug\net6.0\DataModel.csproj.CopyComplete
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\DataModel\obj\Debug\net6.0\DataModel.dll
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\DataModel\obj\Debug\net6.0\DataModel.pdb
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\DataModel\obj\Debug\net6.0\ref\DataModel.dll

@@ -1,0 +1,24 @@
+C:\WPF Training\BusinessModel\obj\Debug\net6.0\BusinessModel.csproj.AssemblyReference.cache
+C:\WPF Training\BusinessModel\obj\Debug\net6.0\BusinessModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\WPF Training\BusinessModel\obj\Debug\net6.0\BusinessModel.AssemblyInfoInputs.cache
+C:\WPF Training\BusinessModel\obj\Debug\net6.0\BusinessModel.AssemblyInfo.cs
+C:\WPF Training\BusinessModel\obj\Debug\net6.0\BusinessModel.csproj.CoreCompileInputs.cache
+C:\WPF Training\BusinessModel\bin\Debug\net6.0\BusinessModel.deps.json
+C:\WPF Training\BusinessModel\bin\Debug\net6.0\BusinessModel.dll
+C:\WPF Training\BusinessModel\bin\Debug\net6.0\BusinessModel.pdb
+C:\WPF Training\BusinessModel\obj\Debug\net6.0\BusinessModel.dll
+C:\WPF Training\BusinessModel\obj\Debug\net6.0\refint\BusinessModel.dll
+C:\WPF Training\BusinessModel\obj\Debug\net6.0\BusinessModel.pdb
+C:\WPF Training\BusinessModel\obj\Debug\net6.0\ref\BusinessModel.dll
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\BusinessModel\bin\Debug\net6.0\BusinessModel.deps.json
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\BusinessModel\bin\Debug\net6.0\BusinessModel.dll
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\BusinessModel\bin\Debug\net6.0\BusinessModel.pdb
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\BusinessModel\obj\Debug\net6.0\BusinessModel.csproj.AssemblyReference.cache
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\BusinessModel\obj\Debug\net6.0\BusinessModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\BusinessModel\obj\Debug\net6.0\BusinessModel.AssemblyInfoInputs.cache
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\BusinessModel\obj\Debug\net6.0\BusinessModel.AssemblyInfo.cs
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\BusinessModel\obj\Debug\net6.0\BusinessModel.csproj.CoreCompileInputs.cache
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\BusinessModel\obj\Debug\net6.0\BusinessModel.dll
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\BusinessModel\obj\Debug\net6.0\refint\BusinessModel.dll
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\BusinessModel\obj\Debug\net6.0\BusinessModel.pdb
+C:\OneDrive\OneDrive - Capgemini\Desktop\WPF Training\BusinessModel\obj\Debug\net6.0\ref\BusinessModel.dll
